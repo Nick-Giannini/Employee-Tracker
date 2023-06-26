@@ -1,5 +1,3 @@
-// db connection
-
 const connection = require('./config/config');
 const questions = require("./lib/index");
 
