@@ -21,7 +21,6 @@ A video walkthrough of the application is available [here.](https://drive.google
 packages used:
 * [inquirer](https://www.npmjs.com/package/inquirer)
 * [mySQL2](https://www.npmjs.com/package/mysql2)
-* [figlet](https://www.npmjs.com/package/figlet)
 
 Additional resources:
 * async/await functionality to delay the display of the initial prompts was aided using [this tutorial.](https://stackoverflow.com/questions/14226803/wait-5-seconds-before-executing-next-line)
